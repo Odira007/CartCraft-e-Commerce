@@ -1,0 +1,450 @@
+2023-11-18 22:41:51.304 +01:00 [ERR] Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+ReviewRequestDto -> Review
+CartCraft.Models.DTOs.Requests.ReviewRequestDto -> CartCraft.Domain.Models.Review
+   at lambda_method23(Closure , ReviewRequestDto , Review , ResolutionContext )
+   at lambda_method22(Closure , Object , Product , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method22(Closure , Object , Product , ResolutionContext )
+   at CartCraft.Application.Services.ProductService.CreateProduct(ProductRequestDto productRequestDto, CancellationToken ct) in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Application\Services\ProductService.cs:line 35
+2023-11-18 22:51:09.083 +01:00 [ERR] Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+ReviewRequestDto -> Review
+CartCraft.Models.DTOs.Requests.ReviewRequestDto -> CartCraft.Domain.Models.Review
+   at lambda_method22(Closure , ReviewRequestDto , Review , ResolutionContext )
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   at CartCraft.Application.Services.ProductService.CreateProduct(ProductRequestDto productRequestDto, CancellationToken ct) in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Application\Services\ProductService.cs:line 35
+2023-11-18 22:51:09.594 +01:00 [ERR] Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+ReviewRequestDto -> Review
+CartCraft.Models.DTOs.Requests.ReviewRequestDto -> CartCraft.Domain.Models.Review
+   at lambda_method22(Closure , ReviewRequestDto , Review , ResolutionContext )
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   at CartCraft.Application.Services.ProductService.CreateProduct(ProductRequestDto productRequestDto, CancellationToken ct) in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Application\Services\ProductService.cs:line 35
+2023-11-18 22:53:37.953 +01:00 [ERR] Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+ReviewRequestDto -> Review
+CartCraft.Models.DTOs.Requests.ReviewRequestDto -> CartCraft.Domain.Models.Review
+   at lambda_method22(Closure , ReviewRequestDto , Review , ResolutionContext )
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   at CartCraft.Application.Services.ProductService.CreateProduct(ProductRequestDto productRequestDto, CancellationToken ct) in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Application\Services\ProductService.cs:line 35
+2023-11-18 22:56:58.788 +01:00 [ERR] Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+ReviewRequestDto -> Review
+CartCraft.Models.DTOs.Requests.ReviewRequestDto -> CartCraft.Domain.Models.Review
+   at lambda_method22(Closure , ReviewRequestDto , Review , ResolutionContext )
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   at CartCraft.Application.Services.ProductService.CreateProduct(ProductRequestDto productRequestDto, CancellationToken ct) in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Application\Services\ProductService.cs:line 35
+2023-11-18 23:01:49.277 +01:00 [ERR] Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+ReviewRequestDto -> Review
+CartCraft.Models.DTOs.Requests.ReviewRequestDto -> CartCraft.Domain.Models.Review
+   at lambda_method22(Closure , ReviewRequestDto , Review , ResolutionContext )
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   at CartCraft.Application.Services.ProductService.CreateProduct(ProductRequestDto productRequestDto, CancellationToken ct) in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Application\Services\ProductService.cs:line 35
+2023-11-18 23:06:20.001 +01:00 [ERR] Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+ReviewRequestDto -> Review
+CartCraft.Models.DTOs.Requests.ReviewRequestDto -> CartCraft.Domain.Models.Review
+   at lambda_method22(Closure , ReviewRequestDto , Review , ResolutionContext )
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   at CartCraft.Application.Services.ProductService.CreateProduct(ProductRequestDto productRequestDto, CancellationToken ct) in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Application\Services\ProductService.cs:line 35
+2023-11-18 23:06:48.428 +01:00 [ERR] Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+ReviewRequestDto -> Review
+CartCraft.Models.DTOs.Requests.ReviewRequestDto -> CartCraft.Domain.Models.Review
+   at lambda_method22(Closure , ReviewRequestDto , Review , ResolutionContext )
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   at CartCraft.Application.Services.ProductService.CreateProduct(ProductRequestDto productRequestDto, CancellationToken ct) in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Application\Services\ProductService.cs:line 35
+2023-11-18 23:06:49.967 +01:00 [ERR] The request stream was aborted.
+System.IO.IOException: The request stream was aborted.
+ ---> Microsoft.AspNetCore.Connections.ConnectionAbortedException: The HTTP/2 connection faulted.
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream.ReadAsyncInternal(Memory`1 destination, CancellationToken cancellationToken)
+   at System.Text.Json.JsonSerializer.ReadAsync[TValue](Stream utf8Json, Type returnType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder.BindModelAsync(ModelBindingContext bindingContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value, Object container)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at CartCraft.API.Middlewares.GlobalExceptionHandler.InvokeAsync(HttpContext context, ILogger logger) in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.API\Middlewares\GlobalExceptionHandler.cs:line 25
+2023-11-18 23:08:47.528 +01:00 [ERR] Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+ReviewRequestDto -> Review
+CartCraft.Models.DTOs.Requests.ReviewRequestDto -> CartCraft.Domain.Models.Review
+   at lambda_method22(Closure , ReviewRequestDto , Review , ResolutionContext )
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   at CartCraft.Application.Services.ProductService.CreateProduct(ProductRequestDto productRequestDto, CancellationToken ct) in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Application\Services\ProductService.cs:line 35
+2023-11-18 23:26:55.134 +01:00 [ERR] Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Type Map configuration:
+ProductRequestDto -> Product
+CartCraft.Models.DTOs.Requests.ProductRequestDto -> CartCraft.Domain.Models.Product
+
+Destination Member:
+Reviews
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+ReviewRequestDto -> Review
+CartCraft.Models.DTOs.Requests.ReviewRequestDto -> CartCraft.Domain.Models.Review
+   at lambda_method22(Closure , ReviewRequestDto , Review , ResolutionContext )
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method21(Closure , Object , Product , ResolutionContext )
+   at CartCraft.Application.Services.ProductService.CreateProduct(ProductRequestDto productRequestDto, CancellationToken ct) in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Application\Services\ProductService.cs:line 35
+2023-11-18 23:34:28.440 +01:00 [ERR] The dependent side could not be determined for the one-to-one relationship between 'ProductDetail.Product' and 'Product.ProductDetail'. To identify the dependent side of the relationship, configure the foreign key property. If these navigations should not be part of the same relationship, configure them independently via separate method chains in 'OnModelCreating'. See http://go.microsoft.com/fwlink/?LinkId=724062 for more details.
+System.InvalidOperationException: The dependent side could not be determined for the one-to-one relationship between 'ProductDetail.Product' and 'Product.ProductDetail'. To identify the dependent side of the relationship, configure the foreign key property. If these navigations should not be part of the same relationship, configure them independently via separate method chains in 'OnModelCreating'. See http://go.microsoft.com/fwlink/?LinkId=724062 for more details.
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.ValidateRelationships(IModel model, IDiagnosticsLogger`1 logger)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.Validate(IModel model, IDiagnosticsLogger`1 logger)
+   at Microsoft.EntityFrameworkCore.Infrastructure.RelationalModelValidator.Validate(IModel model, IDiagnosticsLogger`1 logger)
+   at Microsoft.EntityFrameworkCore.SqlServer.Internal.SqlServerModelValidator.Validate(IModel model, IDiagnosticsLogger`1 logger)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.ValidatingConvention.ProcessModelFinalized(IModel model)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.ImmediateConventionScope.OnModelFinalized(IModel model)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.OnModelFinalized(IModel model)
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.Model.FinalizeModel()
+   at Microsoft.EntityFrameworkCore.ModelBuilder.FinalizeModel()
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.CreateModel(DbContext context, IConventionSetBuilder conventionSetBuilder, ModelDependencies modelDependencies)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.GetModel(DbContext context, IConventionSetBuilder conventionSetBuilder, ModelDependencies modelDependencies)
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.CreateModel()
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.get_Model()
+   at Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.<>c.<TryAddCoreServices>b__7_3(IServiceProvider p)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite singletonCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite singletonCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass1_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.Set[TEntity]()
+   at CartCraft.Infrastructure.Implementations.GenericRepository`1..ctor(DbContext dbContext) in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Infrastructure\Implementations\GenericRepository.cs:line 19
+   at CartCraft.Infrastructure.Implementations.UnitOfWork.Repository[T]() in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Infrastructure\Implementations\UnitOfWork.cs:line 36
+   at CartCraft.Application.Services.ProductService.CreateProduct(ProductRequestDto productRequestDto, CancellationToken ct) in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Application\Services\ProductService.cs:line 36
+2023-11-18 23:37:10.242 +01:00 [ERR] The dependent side could not be determined for the one-to-one relationship between 'ProductDetail.Product' and 'Product.ProductDetail'. To identify the dependent side of the relationship, configure the foreign key property. If these navigations should not be part of the same relationship, configure them independently via separate method chains in 'OnModelCreating'. See http://go.microsoft.com/fwlink/?LinkId=724062 for more details.
+System.InvalidOperationException: The dependent side could not be determined for the one-to-one relationship between 'ProductDetail.Product' and 'Product.ProductDetail'. To identify the dependent side of the relationship, configure the foreign key property. If these navigations should not be part of the same relationship, configure them independently via separate method chains in 'OnModelCreating'. See http://go.microsoft.com/fwlink/?LinkId=724062 for more details.
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.ValidateRelationships(IModel model, IDiagnosticsLogger`1 logger)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.Validate(IModel model, IDiagnosticsLogger`1 logger)
+   at Microsoft.EntityFrameworkCore.Infrastructure.RelationalModelValidator.Validate(IModel model, IDiagnosticsLogger`1 logger)
+   at Microsoft.EntityFrameworkCore.SqlServer.Internal.SqlServerModelValidator.Validate(IModel model, IDiagnosticsLogger`1 logger)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.ValidatingConvention.ProcessModelFinalized(IModel model)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.ImmediateConventionScope.OnModelFinalized(IModel model)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.OnModelFinalized(IModel model)
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.Model.FinalizeModel()
+   at Microsoft.EntityFrameworkCore.ModelBuilder.FinalizeModel()
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.CreateModel(DbContext context, IConventionSetBuilder conventionSetBuilder, ModelDependencies modelDependencies)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.GetModel(DbContext context, IConventionSetBuilder conventionSetBuilder, ModelDependencies modelDependencies)
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.CreateModel()
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.get_Model()
+   at Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.<>c.<TryAddCoreServices>b__7_3(IServiceProvider p)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite singletonCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite singletonCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass1_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.Set[TEntity]()
+   at CartCraft.Infrastructure.Implementations.GenericRepository`1..ctor(DbContext dbContext) in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Infrastructure\Implementations\GenericRepository.cs:line 19
+   at CartCraft.Infrastructure.Implementations.UnitOfWork.Repository[T]() in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Infrastructure\Implementations\UnitOfWork.cs:line 36
+   at CartCraft.Application.Services.ProductService.CreateProduct(ProductRequestDto productRequestDto, CancellationToken ct) in C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Application\Services\ProductService.cs:line 36

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "uc4DAZCUauVVB4Xo3rUEJKsQW9wcY3uU1g09ZV3izsvc/pTVw2mHm3TA1g1rH6RE+eZnpeUiFojuIP/aqJWC5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Domain\\CartCraft.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\microsoft.extensions.objectpool\\2.2.0\\microsoft.extensions.objectpool.2.2.0.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

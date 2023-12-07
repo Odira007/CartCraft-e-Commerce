@@ -1,0 +1,51 @@
+﻿@model RegistrationInputModel
+
+<div class="col-sm-6">
+    <div class="card">
+        <div class="card-header">
+            <h2>Local Account</h2>
+        </div>
+
+        <partial name="_ValidationSummary" />
+        <div class="row">
+            <div class="card-body">
+                <form asp-action="Register" asp-controller="Registration" method="post">
+                    <input type="hidden" asp-for="ReturnUrl" value="@Model.ReturnUrl"/>
+
+                    <div class="form-group">
+                        <label asp-for="Firstname">First name</label>
+                        <input class="form-control" placeholder="First name" asp-for="Firstname" autofocus>
+                        <span asp-validation-for="Firstname" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Lastname">Last name</label>
+                        <input class="form-control" placeholder="Last name" asp-for="Lastname" autofocus>
+                        <span asp-validation-for="Lastname" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Username">Username</label>
+                        <input class="form-control" placeholder="Username" asp-for="Username" autofocus>
+                        <span asp-validation-for="Username" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email">Email</label>
+                        <input class="form-control" placeholder="First name" asp-for="Email" autofocus>
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Password">Password</label>
+                        <input type="password" class="form-control" placeholder="Password" asp-for="Password" autocomplete="off">
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ConfirmPassword">Confirm password</label>
+                        <input class="form-control" placeholder="First name" asp-for="ConfirmPassword" autofocus>
+                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                    </div>
+
+                    <button class="btn btn-primary" name="button" value="register">Register</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

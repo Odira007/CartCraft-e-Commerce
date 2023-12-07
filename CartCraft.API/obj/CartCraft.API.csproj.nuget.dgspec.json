@@ -1,0 +1,387 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.API\\CartCraft.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.API\\CartCraft.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.API\\CartCraft.API.csproj",
+        "projectName": "CartCraft.API",
+        "projectPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.API\\CartCraft.API.csproj",
+        "packagesPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Application\\CartCraft.Application.csproj": {
+                "projectPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Application\\CartCraft.Application.csproj"
+              },
+              "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Domain\\CartCraft.Domain.csproj": {
+                "projectPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Domain\\CartCraft.Domain.csproj"
+              },
+              "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Infrastructure\\CartCraft.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Infrastructure\\CartCraft.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "IdentityModel.AspNetCore": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Application\\CartCraft.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Application\\CartCraft.Application.csproj",
+        "projectName": "CartCraft.Application",
+        "projectPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Application\\CartCraft.Application.csproj",
+        "packagesPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Common\\CartCraft.Common.csproj": {
+                "projectPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Common\\CartCraft.Common.csproj"
+              },
+              "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Domain\\CartCraft.Domain.csproj": {
+                "projectPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Domain\\CartCraft.Domain.csproj"
+              },
+              "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Infrastructure\\CartCraft.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Infrastructure\\CartCraft.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Common\\CartCraft.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Common\\CartCraft.Common.csproj",
+        "projectName": "CartCraft.Common",
+        "projectPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Common\\CartCraft.Common.csproj",
+        "packagesPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Domain\\CartCraft.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Domain\\CartCraft.Domain.csproj",
+        "projectName": "CartCraft.Domain",
+        "projectPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Domain\\CartCraft.Domain.csproj",
+        "packagesPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Infrastructure\\CartCraft.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Infrastructure\\CartCraft.Infrastructure.csproj",
+        "projectName": "CartCraft.Infrastructure",
+        "projectPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Infrastructure\\CartCraft.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Domain\\CartCraft.Domain.csproj": {
+                "projectPath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Domain\\CartCraft.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

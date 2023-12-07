@@ -1,0 +1,12 @@
+C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Domain\bin\Debug\net5.0\CartCraft.Domain.deps.json
+C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Domain\bin\Debug\net5.0\CartCraft.Domain.dll
+C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Domain\bin\Debug\net5.0\ref\CartCraft.Domain.dll
+C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Domain\bin\Debug\net5.0\CartCraft.Domain.pdb
+C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Domain\obj\Debug\net5.0\CartCraft.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Domain\obj\Debug\net5.0\CartCraft.Domain.AssemblyInfoInputs.cache
+C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Domain\obj\Debug\net5.0\CartCraft.Domain.AssemblyInfo.cs
+C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Domain\obj\Debug\net5.0\CartCraft.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Domain\obj\Debug\net5.0\CartCraft.Domain.dll
+C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Domain\obj\Debug\net5.0\ref\CartCraft.Domain.dll
+C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Domain\obj\Debug\net5.0\CartCraft.Domain.pdb
+C:\Users\ODIRA.DESKTOP-II4QM4T\source\repos\CartCraft\CartCraft.Domain\obj\Debug\net5.0\CartCraft.Domain.csproj.AssemblyReference.cache

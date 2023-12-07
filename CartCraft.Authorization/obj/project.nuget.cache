@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kOQ2lC49Oo/xECA7DbClHuRaTZojqfnHgwKvVA4Gj7/5T/ShCYJfbve//0NQTYR1WccTn1IC4Xl3mx7C/RcSYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\source\\repos\\CartCraft\\CartCraft.Authorization\\CartCraft.Authorization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.17\\microsoft.aspnetcore.authorization.5.0.17.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.17\\microsoft.aspnetcore.metadata.5.0.17.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\ODIRA.DESKTOP-II4QM4T\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
